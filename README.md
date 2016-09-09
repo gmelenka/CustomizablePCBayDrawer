@@ -17,8 +17,6 @@ Edit 2016/07/18
 I've added a new drawer option which will add a hole rather than a tab or handle for the drawer. 
 This way you can still open the drawer but there won't be a tab or handle that could potentially break off.
 
- CustomizablePCBayDrawer/images/pcBayDrawer01.JPG 
- 
 # View STL Files
  
 ![PC Bay Drawer](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer.stl)
