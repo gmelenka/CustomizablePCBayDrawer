@@ -19,13 +19,13 @@ This way you can still open the drawer but there won't be a tab or handle that c
 
  CustomizablePCBayDrawer/images/pcBayDrawer01.JPG 
  
- ## View STL Files
+ ##View STL Files
  
-![PC Bay Drawer](https://github.com/gmelenka/CustomizablePCBayDrawer/master/pcBayDrawer.stl)
+![PC Bay Drawer](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer.stl)
 
-![PC Bay Drawer with Knob Handle](https://github.com/gmelenka/CustomizablePCBayDrawer/master/pcBayDrawer_knobHandle.stl)
+![PC Bay Drawer with Knob Handle](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer_knobHandle.stl)
 
-![PC Bay Drawer with Tab Handle](https://github.com/gmelenka/CustomizablePCBayDrawer/master/pcBayDrawer_tabHandle.stl)
+![PC Bay Drawer with Tab Handle](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer_tabHandle.stl)
 
 ![PC Bay Drawer Mount](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer_mount.stl)
 
