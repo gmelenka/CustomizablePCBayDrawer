@@ -21,3 +21,5 @@ This way you can still open the drawer but there won't be a tab or handle that c
  
  
 ![PC Bay Drawer STL](https://raw.githubusercontent.com/gmelenka/CustomizablePCBayDrawer/master/pcBayDrawer.stl)
+
+![PC Bay Drawer](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer.stl)
