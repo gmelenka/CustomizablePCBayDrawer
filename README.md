@@ -1,6 +1,6 @@
 # Customizable PC Bay Drawer
 
-![Customizable PC Bay Drawer](https://raw.githubusercontent.com/CustomizablePCBayDrawer/master/images/pcBayDrawer01.JPG)
+![Customizable PC Bay Drawer](https://raw.githubusercontent.com/gmelenka/CustomizablePCBayDrawer/master/images/pcBayDrawer01.JPG)
 
 This is a customizable drawer that can be used with any 5.25" PC drive bay. Many computers have additional bays so why not put them to use?. 
 This drawer was created to store PC related parts like USB keys, and SD cards.
