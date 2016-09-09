@@ -19,7 +19,7 @@ This way you can still open the drawer but there won't be a tab or handle that c
 
  CustomizablePCBayDrawer/images/pcBayDrawer01.JPG 
  
- ##View STL Files
+ # View STL Files
  
 ![PC Bay Drawer](https://github.com/gmelenka/CustomizablePCBayDrawer/blob/master/pcBayDrawer.stl)
 
